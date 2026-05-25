@@ -46,13 +46,3 @@
 
 📧 Email: aldolie.bs@gmail.com  
 💼 LinkedIn: linkedin.com/in/aldo-lie-nopianto-a9829b203/
-
----
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldolienopianto&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldolienopianto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
