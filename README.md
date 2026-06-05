@@ -3,7 +3,7 @@
 🚀 Business & Tech Enthusiast from Indonesia  
 
 🎓 Bachelor of Business Management  
-💻 Interested in Web Development, Networking & Automation  
+💻 Interested in Web Development,CEO, Networking & Automation  
 
 ---
 
