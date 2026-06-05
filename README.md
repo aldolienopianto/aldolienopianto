@@ -44,5 +44,5 @@
 
 ## 🌏 Connect With Me
 
-📧 Email: aldolie.bs@gmail.com  
+📧 Email: aldo.l.nopianto@gmail.com  
 💼 LinkedIn: linkedin.com/in/aldo-lie-nopianto-a9829b203/
